@@ -1443,7 +1443,8 @@ button::-moz-focus-inner, input::-moz-focus-inner {
  * ## header logo
  * ------------------------------------------------------------------- */
 .header-logo {
-    display: justify-content;
+    display: inline-block;
+    align: center;
     position: absolute;
     margin: 0;
     padding: 0;
