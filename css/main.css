@@ -259,7 +259,7 @@ blockquote cite:before {
 }
 
 blockquote cite a, blockquote cite a:visited {
-    color: #828282;
+    color: #000000;
     border: none;
 }
 
