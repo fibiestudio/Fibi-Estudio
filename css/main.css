@@ -75,7 +75,7 @@ html, body {
 
 body {
     background: #111111;
-    font-family: "lora-regular", serif;
+    font-family: "montserrat-regular", serif;
     font-size: 1.7rem;
     font-style: normal;
     font-weight: normal;
@@ -264,7 +264,7 @@ blockquote cite a, blockquote cite a:visited {
 }
 
 abbr {
-    font-family: "lora-bold", serif;
+    font-family: "montserrat-bold", serif;
     font-variant: small-caps;
     text-transform: lowercase;
     letter-spacing: .05rem;
@@ -2561,7 +2561,7 @@ html.no-csstransitions .home-content__main {
 
 .item-folio__thumb a::after {
     content: "+";
-    font-family: georgia, serif;
+    font-family: montserrat-regular;
     font-size: 2.7rem;
     display: block;
     height: 30px;
@@ -2792,7 +2792,7 @@ html.no-csstransitions .home-content__main {
 }
 
 .clients-testimonials .testimonials p {
-    font-family: "lora-regular", serif;
+    font-family: "montserrat-regular";
     font-size: 3rem;
     line-height: 1.8;
     color: #555555;
