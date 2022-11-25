@@ -96,7 +96,7 @@ a {
 }
 
 a:hover, a:focus, a:active {
-    color: #39b54a;
+    color: #00ffe1;
 }
 
 a:hover, a:active {
@@ -367,7 +367,7 @@ ul.disc li::before {
     width: 8px;
     height: 8px;
     border-radius: 50%;
-    background: #39b54a;
+    background: #00ffe1;
     position: absolute;
     left: -17px;
     top: 11px;
@@ -502,7 +502,7 @@ form,
 }
 
 .pace .pace-progress {
-    background: #39b54a;
+    background: #00ffe1;
     position: fixed;
     z-index: 900;
     top: 0;
@@ -545,7 +545,7 @@ form,
 }
 
 .line-scale-pulse-out > div {
-    background-color: #39b54a;
+    background-color: #00ffe1;
     width: 4px;
     height: 35px;
     border-radius: 2px;
@@ -772,7 +772,7 @@ textarea:-webkit-autofill:hover textarea:-webkit-autofill:focus,
 select:-webkit-autofill,
 select:-webkit-autofill:hover,
 select:-webkit-autofill:focus {
-    -webkit-text-fill-color: #39b54a;
+    -webkit-text-fill-color: #00ffe1;
     transition: background-color 5000s ease-in-out 0s;
 }
 
@@ -832,8 +832,8 @@ button.btn--primary,
 input[type="submit"].btn--primary,
 input[type="reset"].btn--primary,
 input[type="button"].btn--primary {
-    background: #39b54a;
-    border-color: #39b54a;
+    background: #00ffe1;
+    border-color: #00ffe1;
     color: #FFFFFF;
 }
 
@@ -873,7 +873,7 @@ input[type="button"].btn--primary:focus {
 .btn--stroke, button.btn--stroke {
     background: transparent !important;
     border: 0.2rem solid #39b54a;
-    color: #39b54a;
+    color: #00ffe1;
 }
 
 .btn--stroke:hover, button.btn--stroke:hover {
